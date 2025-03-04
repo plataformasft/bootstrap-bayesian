@@ -1,7 +1,8 @@
-streamlit
-matplotlib
-numpy==1.19.5
-seaborn
-pymc3
-pandas
-arviz
+streamlit  
+matplotlib  
+numpy==1.19.5  
+seaborn  
+pymc3  
+pandas  
+arviz  
+
