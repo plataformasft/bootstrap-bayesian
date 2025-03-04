@@ -8,6 +8,7 @@ import arviz as az
 import pymc as pm  # en lugar de pymc3
 
 
+
 st.title("Análisis Bootstrap y Bayesiano")
 st.title("Mi Aplicación de Bootstrap y Análisis Bayesiano")
 st.write("Hola, la aplicación se ha cargado correctamente.")
