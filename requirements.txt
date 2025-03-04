@@ -1,1 +1,7 @@
 streamlit
+matplotlib
+seaborn
+pymc3
+numpy==1.19.5
+pandas
+arviz
