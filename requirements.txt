@@ -1,7 +1,7 @@
 streamlit
 matplotlib
+numpy==1.19.5
 seaborn
 pymc3
-numpy==1.19.5
 pandas
 arviz
